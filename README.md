@@ -5,8 +5,8 @@ Task-19.2.4.
 
 Этот репозиторий зодержит три файла: 
 
-++  архив "pytest_first_test.rar" - папка проект;
+архив "pytest_first_test.rar" - папка проект;
 
-++  "calculator.py" код калькулятора;
+"calculator.py" код калькулятора;
 
-++  "super_puper_tests.py" - код тестов.
+ "super_puper_tests.py" - код тестов.
